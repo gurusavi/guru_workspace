@@ -1,6 +1,6 @@
 # Databricks notebook source
 # Databricks notebook source
- %run ./test-run
+1 %run ./test-run
 
 
 # COMMAND ----------
